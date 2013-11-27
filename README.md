@@ -30,10 +30,15 @@ Include the Javascript in your view
 
 Use the helper
 ```ruby
-<%= retina_image_tag('high-res-hero.png', :hid => true, :at2x => 'high-res-hero-large.png') %>
+<%= retina_image_tag('high-res-hero.png', :at2x => 'high-res-hero-large.png') %>
 ```
 
 By default, the retina image should have ```_2x``` as Apple has them.
+Used like this
+
+```ruby
+<%= retina_image_tag('high-res-hero.png') %>
+```
 
 ## Contributing
 
