@@ -1,5 +1,7 @@
 # RetinaImageTag
 
+[![Code Climate](https://codeclimate.com/github/dinks/retina_image_tag.png)](https://codeclimate.com/github/dinks/retina_image_tag)
+
 Use the ```retina_image_tag``` for retina image serving
 
 Inspired by https://github.com/imulus/retinajs
