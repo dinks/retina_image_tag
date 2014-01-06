@@ -10,15 +10,11 @@ Inspired by https://github.com/imulus/retinajs
 
 Add this line to your application's Gemfile:
 
-    gem 'retina_image_tag'
+    gem 'retina_image_tag', git: 'git@github.com:dinks/retina_image_tag.git'
 
 And then execute:
 
     $ bundle
-
-Or install it yourself as:
-
-    $ gem install retina_image_tag
 
 ## Usage
 
